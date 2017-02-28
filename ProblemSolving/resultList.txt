@@ -1,0 +1,10 @@
+Smith - Row 1, Section 2
+Abel - Row 2, Section 1
+Lonely - Row 1, Section 1
+Bored - Row 4, Section 3
+Splittey - Call to split party.
+Stupid - Row 1, Section 2
+Partytown - Cannot fit party into theater
+Somebody - Row 5, Section 1
+AnotherLonely - Row 1, Section 1
+Splitter - Call to split party.
