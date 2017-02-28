@@ -9,8 +9,12 @@ public class TheTheater {
 
 	public static void main(String[] args) throws FileNotFoundException {
 		
-		Theater theater = new Theater(new File("theaterLayout.txt"));
-		theater.placePartiesIntoTheater(new File("customerList.txt"), new File("resultList.txt"));
+		String theaterLayout = "theaterLayout.txt";
+		String customerList = "customerList.txt";
+		String resultList = "resultList.txt";
+		
+		Theater theater = new Theater(new File(theaterLayout));
+		theater.placePartiesIntoTheater(new File(customerList), new File(resultList));
 		
 	}
 
