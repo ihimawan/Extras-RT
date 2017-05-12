@@ -5,7 +5,11 @@ import java.util.Comparator;
 import java.util.TreeMap;
 
 public class Anagrams2 {
+	
+	//change here
 	public static void main(String[] args) {
+		
+		int x = 0;
 
 		String[] array = new String[] { "lead", "deal", "dale", "cheating",
 				"teaching", "eat", "tea", "ate" };
