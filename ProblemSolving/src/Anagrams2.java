@@ -11,7 +11,7 @@ public class Anagrams2 {
 		
 		int x = 0;
 
-		String[] array = new String[] { "lead", "deal", "dale", "cheating",
+		String[] somethingDifferent = new String[] { "lead", "deal", "dale", "cheating",
 				"teaching", "eat", "tea", "ate" };
 
 		// first sort the array
