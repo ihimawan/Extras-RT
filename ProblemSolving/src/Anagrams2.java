@@ -20,6 +20,8 @@ public class Anagrams2 {
 	}
 	
 	static void someFunction(){
-		System.out.println("hi");
+		for (int i = 0; i < 10; i ++){
+			System.out.println(i * 2);
+		}
 	}
 }
