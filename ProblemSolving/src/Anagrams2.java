@@ -19,7 +19,7 @@ public class Anagrams2 {
 
 	}
 	
-	void someFunction(){
+	static void someFunction(){
 		System.out.println("hi");
 	}
 }
